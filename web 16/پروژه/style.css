@@ -1,0 +1,21 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-size: 28px;
+}
+.text-1 {
+    font-size: 16px;
+    line-height: 20px;
+}
+#id-1 {
+    font-size: 18px;
+    font-style: bold;
+}
+h1, h2, h4 {
+    font-size: 20px;
+    color: #ffe600;
+}
+header, footer {
+     text-align: center;
+}
